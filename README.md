@@ -1,4 +1,4 @@
-# Contrôle de la Freebox Révolution à la voix
+# Contrôle de la Freebox à la voix
 
 Pour utiliser ce service, rendez-vous sur https://assistant.kodono.info/freebox/
 
